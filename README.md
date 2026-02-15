@@ -1,1 +1,2 @@
 # LogisticsShippingRates
+In this lab you will start your journey with the GitHub implemention for your organisation by creating a repository in your GitHub account and then initialising the repository with a README.md file and a License. Following this, you'll update the README file to include a Code of Conduct and Contribution Guidelines markdown files. After making these changes, you'll commit the files to your repository.
